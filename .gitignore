@@ -1,0 +1,10 @@
+*.iml
+*.DS_Store
+*\.idea
+*.gradle/
+*.iws
+*.ipr
+java-app-spring-cloud/build/
+java-app/build/
+spring-app/build/
+*build/
